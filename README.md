@@ -26,3 +26,7 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 * can you draw a right angle (pen, move, turn)?
 * can you make a triangle with each side the correct length?
 * can you draw a square?
+5. more to come
+## Python
+* textbook : greenteapress.com/wp/think-python-2e/
+* follow along, one chapter after another
