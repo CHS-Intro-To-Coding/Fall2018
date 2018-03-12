@@ -28,5 +28,5 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 * can you draw a square?
 5. more to come
 ## Python
-* textbook : greenteapress.com/wp/think-python-2e/
+* textbook : [Think Python](http://greenteapress.com/wp/think-python-2e/ "free pdf")
 * follow along, one chapter after another
