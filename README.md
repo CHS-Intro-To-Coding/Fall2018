@@ -68,9 +68,8 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 * textbook : [Think Python](http://greenteapress.com/wp/think-python-2e/ "free pdf")
 * create an educational account at [pythonanywhere](https://www.pythonanywhere.com)
 * start a bash console
-  * type python in the console
+  * type "python" in the console
   * type 3 * 8 after the three ">>>" symbol
   * use a variable: type x = 7
   * type x * 3
-
 * follow along, one chapter after another
