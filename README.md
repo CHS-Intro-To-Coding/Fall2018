@@ -12,7 +12,7 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 ## RenWeb
 * Checking your academic status on RenWeb.
 ## Scratch
-* Setting up a Scratch account for your first programming project
+* Setting up a [Scratch account](https://scratch.mit.edu/) for your first programming project
 1. Avatars
 * can you make the cat talk to you?
 * can you make the cat disappear and reappear?
