@@ -32,7 +32,7 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 * can you make a triangle with each side the correct length?
 * can you draw a square?
 * can you draw that square using a "repeat" control?
-* can you draw 4 squares?
+* can you draw 4 squares? can you draw 4 squares with one move, two turns and two repeats?
 * look through the orange "Control" commands.
 5. Starting with the green flag
 * make the cat walk across the screen when you click on the green flag.
@@ -41,6 +41,20 @@ We expect you to use your device(s) to communicate, to collaborate and to create
   * notice that the cat's position is diplayed below the window on the right
   * the center of the screen is x=0, and y=0
   * up is +180, down is -180, left if -240 and right is +240
+6. Tutorials
+* Complete the "Getting Started with Scratch" tutorial
+* Complete the "Create a Story" tutorial. Illustrate a story or poem from your English or Theology classes.
+* Create the "Pong" game.
+7. Create a maze
+* on a background draw a few walls all of one color
+* pick an avatar that will fit within your walls
+* program some keys to move the avatar in all directions
+* decide what happens when the avatar hits a wall
+8. Embellish the maze
+* make the walls more challenging
+* collect items along the way as you solve the maze
+* avoid moving objects as you solve the maze
+* add lives, points, or record the time for each maze solved
 ## Python
 * textbook : [Think Python](http://greenteapress.com/wp/think-python-2e/ "free pdf")
 * follow along, one chapter after another
