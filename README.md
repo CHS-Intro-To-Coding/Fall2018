@@ -12,7 +12,8 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 ## RenWeb
 * Checking your academic status on RenWeb.
 ## Scratch
-* Setting up a [Scratch account](https://scratch.mit.edu/) for your first programming project
+* Setting up a [Scratch account](https://scratch.mit.edu/) for your first programming project.
+* Take a screen shot of your Scratch code to turn in as you complete each Google classroom assignment.
 1. Avatars
 * can you make the cat talk to you?
 * can you make the cat disappear and reappear?
@@ -20,13 +21,13 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 2. Moving
 * can you move the cat?
 * can you reset the cat's position?
-* turn the cat around, have it move to right of the screen, and then have it move to the left of the screen
+* turn the cat around, have it move to right of the screen, and then have it move to the left of the screen.
 * how big is the screen, in cat steps?
 * what are some of the other ways to move, found under blue "Motion"?
 3. Lines
 * can you draw a line (cat disappears, pen, move)?
 * can you draw two lines that aren't connected?
-* try making a tic tac toe board
+* make a tic tac toe board.
 4. Turning
 * can you draw a right angle (pen, move, turn)?
 * can you make a triangle with each side the correct length?
@@ -39,22 +40,37 @@ We expect you to use your device(s) to communicate, to collaborate and to create
 * have the cat jump to the center of the screen when you press the spacebar.
 * have the cat walk diagonally across the screen when you press the 'd' key.
   * notice that the cat's position is diplayed below the window on the right
-  * the center of the screen is x=0, and y=0
-  * up is +180, down is -180, left if -240 and right is +240
+  * the center of the screen is x=0, and y=0.
+  * up is +180, down is -180, left if -240 and right is +240.
 6. Tutorials
-* Complete the "Getting Started with Scratch" tutorial
+* Complete the "Getting Started with Scratch" tutorial.
 * Complete the "Create a Story" tutorial. Illustrate a story or poem from your English or Theology classes.
 * Create the "Pong" game.
 7. Create a maze
-* on a background draw a few walls all of one color
-* pick an avatar that will fit within your walls
-* program some keys to move the avatar in all directions
-* decide what happens when the avatar hits a wall
+* on a background draw a few walls all of one color.
+* pick an avatar that will fit within your walls.
+* program some keys to move the avatar in all directions.
+* decide what happens when the avatar hits a wall.
 8. Embellish the maze
-* make the walls more challenging
-* collect items along the way as you solve the maze
-* avoid moving objects as you solve the maze
-* add lives, points, or record the time for each maze solved
+* make the walls more challenging.
+* collect items along the way as you solve the maze.
+* avoid moving objects as you solve the maze.
+* add lives, points, or record the time for each maze solved.
+9. Create your own game
+* original background
+* original avatar
+* responds to user input.
+* records a score
+* records a time
+* has two levels
+* each level has a defined goal
 ## Python
 * textbook : [Think Python](http://greenteapress.com/wp/think-python-2e/ "free pdf")
+* create an educational account at [pythonanywhere](https://www.pythonanywhere.com)
+* start a bash console
+  * type python in the console
+  * type 3 * 8 after the three ">>>" symbol
+  * use a variable: type x = 7
+  * type x * 3
+
 * follow along, one chapter after another
